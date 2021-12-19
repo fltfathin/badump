@@ -1,2 +1,2 @@
-# badump
-end-to-end api testing tool just because
+# badump.ts
+rest api end-to-end framework made to make my life easier
